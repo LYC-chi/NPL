@@ -1,0 +1,4 @@
+__pycache__/
+*.pyc
+output/req_thesis_20261010/
+data/corpus/
